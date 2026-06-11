@@ -1,2 +1,2 @@
-# Neetcode-Submission
+# DSA revision
 Daily DSA solved questions tracker
